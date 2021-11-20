@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Akhil Tiwari
 - 👀 I’m interested in Web Devlopment and AI.
-- 🌱 I’m currently learning at Lovely Professional University
+- 📚 I'm familier  with  C , C++ , Python , Data Structures and Algorithms.
+- 🌱 I’m currently learning at Lovely Professional University, Punjab
 - 📢 You can reach me at akhiltiwaristp@gmail.com
 
 <!---
