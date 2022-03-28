@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akhil Tiwari
-- 👀 My Interest is in coding in C++ and Web Development  , Blockchain and AI.
-- 📚 I'm familier  with  C , C++ , Python , Data Structures and Algorithms.
+- 👀 I am Coding Enthusiast.
+- 📚Proficient in C++ , Java , Data Structures and Algorithms. Programming Language:- C++.
 - 🌱 I’m currently learning at Lovely Professional University, Punjab
 - 📢 You can reach me at akhiltiwaristp@gmail.com
 
