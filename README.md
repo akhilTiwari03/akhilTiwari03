@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akhil Tiwari
 - 👀 I am Coding Enthusiast.
-- 📚Proficient in C++ , Java , Data Structures and Algorithms. Programming Language:- C++.
+- 📚Proficient in C++ , Java , Data Structures and Algorithms.
 - 🌱 I’m currently learning at Lovely Professional University, Punjab
 - 📢 You can reach me at akhiltiwaristp@gmail.com
 
